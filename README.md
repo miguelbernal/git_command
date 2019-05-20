@@ -35,3 +35,12 @@
 21. quitar vinculo --> git remote remove origin
 22. ver los repositorios remotos --> git remote -v
 23. pasar al repositorio remoto --> git push origin master
+## create a new repository on the command line
+   ```sh
+    echo "# git_command" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git remote add origin https://github.com/miguelbernal/git_command.git
+    git push -u origin master
+   ```
