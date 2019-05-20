@@ -5,8 +5,8 @@
 ## Ayuda
 1. git help add
 ## Configuración
-2. git config --global user.name "Miguel Angel Bernal"
-3. git config --global user.email "dm.mbernal@gmail.com"
+2. git config --global user.name "Nombre Usuario"
+3. git config --global user.email "usuario@mail.com"
 4. git config --global color.ui true
 5. git config --global --list
 ## Inicializar nuestro proyecto
